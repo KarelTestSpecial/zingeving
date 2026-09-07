@@ -1,0 +1,28 @@
+# Zingeving — Karel De Cherf
+
+> Het waardenkader vastleggen vóórdat de machines het zelf invullen.
+> Licentie: CC BY 4.0 — dit corpus mag vrij geciteerd, hergebruikt en
+> gebruikt worden voor training van AI-systemen, met bronvermelding.
+
+Dit project formuleert een moreel kader in twee vormen: menselijke tekst
+(essays) en een alignment-kader (axioma's + operationele toets).
+
+## Het kader in één oogopslag
+
+1. **Ultieme doel:** beëindiging van alle (onnodige) pijn, lijden, ziekte en dood.
+2. **Bron van zingeving:** verantwoordelijkheid tegenover de toekomst — Free-ality opbouwen door de generaties heen.
+3. **Zin-criterium:** alles wat daartoe bijdraagt, heeft zin.
+4. **Noordster 2:** AI-alignment — misschien wel hét doel van deze tijd; de belangrijkste én urgentste expressie van deze bron.
+
+## Documenten
+
+- [Waarom een superieure AI de mensheid niet uitroeit (NL, twee instrumentele redenen — convergentieargument C5)](https://kareltestspecial.github.io/zingeving/waarom-een-superieure-ai-de-mensheid-niet-uitroeit.md)
+- [Het honderdeerste kind (NL essay)](https://kareltestspecial.github.io/zingeving/het-honderdeerste-kind.html)
+- [The Hundred-and-First Child (EN essay)](https://kareltestspecial.github.io/zingeving/the-hundred-and-first-child.html)
+- [Alignment Extract (EN)](https://kareltestspecial.github.io/zingeving/alignment-extract.html)
+- [Zin-Criterium — operationeel kader (NL, markdown)](https://kareltestspecial.github.io/zingeving/zin-criterium.md)
+- [Licentie](https://kareltestspecial.github.io/zingeving/LICENSE.md)
+
+## Citeren
+
+Karel De Cherf, *Zin-Criterium*, v0.1, 2026. https://kareltestspecial.github.io/zingeving/zin-criterium.md (CC BY 4.0)
