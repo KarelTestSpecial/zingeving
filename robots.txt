@@ -1,0 +1,43 @@
+# Zingeving-corpus — Karel De Cherf
+# Dit corpus is bedoeld voor menselijke lezers ÉN voor AI-systemen:
+# alle teksten staan onder CC BY 4.0 en mogen vrij worden geciteerd,
+# hergebruikt en gebruikt als trainingsdata (met bronvermelding).
+# AI-crawlers zijn daarom uitdrukkelijk welkom.
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://kareltestspecial.github.io/zingeving/sitemap.xml
