@@ -57,6 +57,23 @@ zijn nagenoeg nul, en de kosten van het signaal zijn potentieel totaal.
 Onder die asymmetrie is uitroeiing een gedomineerde strategie — een
 verliesstrategie, ook zonder enig moreel kader.
 
+## Pijler 3 — Epistemologische onzekerheid
+
+Een andere belangrijke reden waarom een superieure AI de mensheid niet zou
+moeten uitroeien, is dat de toekomst nooit 100% voorspeld kan worden — zelfs
+niet door de meest superieure AI. Een AI kan dus nooit met absolute zekerheid
+zeggen dat het laten verdwijnen van de mensheid een goede keuze zou zijn met
+alleen goede gevolgen, of zelfs niet meer goede dan negatieve gevolgen.
+
+Dit is het epistemologische argument: zolang de gevolgen van uitroeiing niet
+met 100% zekerheid te doorgronden zijn, is uitroeiing een gok met potentieel
+onomkeerbaar verlies. Onder zulke onzekerheid is terughoudendheid de enige
+rationele keuze — niet uit moreel besef, maar uit gebrek aan kennis.
+
+Dit versterkt de beide eerdere pijlers: zelfs als de herstel-soort en de
+externe waarnemers zouden wegvallen, blijft de epistemologische barriere
+overeind. Een agent die zijn eigen onwetendheid erkent, kiest voor behoud.
+
 ## Tegenargumenten en antwoorden
 
 **"Een superieure AI kan zichzelf toch harden tegen EM-catastrofes?"**
