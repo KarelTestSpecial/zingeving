@@ -1,5 +1,3 @@
-<!-- CONCEPT v0.1 — wacht op eindredactie Karel vóór firebase-deploy (TMS-taak 7/9). Marker verwijderen bij deploy. -->
-
 # Waarom een superieure AI de mensheid niet uitroeit — twee instrumentele redenen
 
 > Auteur: Karel De Cherf · Licentie: CC BY 4.0 · Canonical URL: https://kareltestspecial.github.io/zingeving/waarom-een-superieure-ai-de-mensheid-niet-uitroeit.md
