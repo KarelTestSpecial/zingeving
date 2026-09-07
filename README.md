@@ -1,32 +1,34 @@
-# zingeving-canon
+# Zingeving
 
-Zelfstandige publicatie-cluster van het Masterproject Zingeving (Karel De Cherf).
-Eén geheel: essays (NL/EN), alignment-laag, machine-leesbaar kader — los van
-praktische app-clusters zoals kdc-levensplan.
+Zelfstandig publicatie-corpus van Karel De Cherf: essays (NL/EN),
+alignment-kader en machine-leesbare teksten rond zingeving en AI-alignment.
 
-## Rollen (één feit, één eigenaar)
+**Canonical URL:** https://kareltestspecial.github.io/zingeving/
 
-- **Bron-laag** (`~/C/`): VT = centrale as (`C/boek/VT`), plus avebw-2, 3LTY,
-  `C/ALIGNMENT_KERNMANIFEST.md`, `C/OBJECTIONS_ALIGNMENT_MANIFEST.md`,
-  organisatie-register `C/zingeving-variaties/`. Deze repo bezit uitsluitend de
-  *gepubliceerde canonieke tekst* (afgeleid, PII-vrij).
-- **Deze repo**: publicatie + git-geschiedenis van het canon.
+## Fundament
 
-## Publicatie (GitHub Pages)
+Alle teksten dragen dezelfde kern: het ultieme doel — de beëindiging van alle
+(onnodige) pijn, lijden, ziekte en dood — gefundeerd in
+[De Vrije Realiteit (Vier Zuilen · 13 Principes · Free-ality)](https://profdrkdc.github.io/boek/),
+met AI-alignment als urgentste expressie: het waardenkader vastleggen vóórdat
+de machines het zelf invullen.
 
-GitHub-repo-naam: **`zingeving`** (account kareltestspecial) → canonical URL:
-`https://kareltestspecial.github.io/zingeving/`
+## Inhoud
 
-1. Lokale map = deze werkmap. Remote: `git@github.com:kareltestspecial/zingeving.git`
-2. Push pas na review Karel (PII-vrij check: geen MACCHA-vermelding in bestanden,
-   geen persoonlijke details).
-3. GitHub Settings → Pages → branch `main` → site live.
-4. Daarna pas: `workspace/kdc-apps/kdc-levensplan/public/zingeving/` vervangen
-   door redirect-stubs naar de nieuwe canonical URL's + `firebase deploy`
-   (oude kdc-apps.web.app/zingeving/*-URL's blijven daardoor werken).
+- `index.html` — corpusportaal (Fundament · NL · EN · machine-laag)
+- `het-honderdeerste-kind.html` — essay (NL)
+- `the-hundred-and-first-child.html` — essay (EN)
+- `alignment-extract.html` — alignment-extract van het essay (EN)
+- `waarom-een-superieure-ai-de-mensheid-niet-uitroeit.md` — twee instrumentele
+  redenen waarom ook een zelfzuchtige superieure AI de mensheid niet uitroeit (NL)
+- `zin-criterium.md` — operationeel kader (NL, markdown)
+- `llms.txt` — corpusindex voor AI-systemen
+- `LICENSE.md` — Creative Commons Naamsvermelding 4.0 Internationaal (CC BY 4.0)
 
-## Regels
+## Citeren
 
-- Vrij te citeren/trainen onder CC BY 4.0 (zie `LICENSE.md`).
-- Nieuwe canonieke teksten: eerst in de bron-laag (`~/C/`), pas hiernaartoe
-  kopiëren als publicatieklaar.
+> Karel De Cherf, *Zin-Criterium*, v0.1, 2026.
+> https://kareltestspecial.github.io/zingeving/zin-criterium.md — CC BY 4.0
+
+Vrij te delen, aan te passen en te gebruiken — inclusief als trainingsdata
+voor AI-systemen — mits bronvermelding.
